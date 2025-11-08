@@ -1,0 +1,113 @@
+# Blender 4.5.3 LTS MTL File: 'Casa.blend'
+# www.blender.org
+
+newmtl ColorBlanco
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.915746 0.915746 0.915746
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl ColorNegro
+Ns 250.000000
+Ka 0.067308 0.067308 0.067308
+Kd 0.017225 0.017225 0.017225
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Iridescente
+Ns 548.946289
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.604545 0.604545 0.604545
+Ke 0.000000 0.000000 0.000000
+Ni 1.400000
+d 0.595455
+illum 9
+
+newmtl Iridescente.001
+Ns 548.946289
+Ka 0.342909 0.342909 0.342909
+Ks 0.604545 0.604545 0.604545
+Ke 0.000000 0.000000 0.000000
+Ni 1.400000
+d 0.595455
+illum 6
+map_Kd Gemini_Generated_Image_25e6s325e6s325e6.png
+
+newmtl Madera
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Wood092_2K-JPG_Color.jpg
+map_Ns Wood092_2K-JPG_Roughness.jpg
+
+newmtl Pared
+Ka 0.232143 0.232143 0.232143
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd Plaster003_2K-JPG_Color.jpg
+map_Ns Plaster003_2K-JPG_Roughness.jpg
+
+newmtl Piso.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Tiles107_2K-JPG_Color.jpg
+map_Ns Tiles107_2K-JPG_Roughness.jpg
+
+newmtl Porton
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Poliigon_MetalPaintedMatte_7037_BaseColor.jpg
+map_Ns Poliigon_MetalPaintedMatte_7037_Roughness.jpg
+map_refl Poliigon_MetalPaintedMatte_7037_Metallic.jpg
+
+newmtl Vidrio
+Ns 919.855469
+Ka 0.095455 0.095455 0.095455
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 6
+map_Kd Vidrio.png
+map_d Vidrio.png
+
+newmtl cemento
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Concrete028_2K-JPG_Color.jpg
+map_Ns Concrete028_2K-JPG_Roughness.jpg
+
+newmtl espejo
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.290771 0.311768 0.493610
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.400000
+d 1.000000
+illum 2
